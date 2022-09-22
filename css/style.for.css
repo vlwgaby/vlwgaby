@@ -1,0 +1,42 @@
+form {
+    margin: auto;
+    width: 200;
+    padding: 2em;
+}
+
+
+
+header { /*organizar o espaçamento*/
+    display:flex;
+    justify-content: space-around;
+    max-width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
+label {
+width: 100px;
+display: inline-block;
+text-align: right;
+color: white;
+font-size: 25px;
+height: 20px;
+
+}
+
+input textarea {
+    font: 1em;
+    width: 500px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body { 
+     background-position: center;
+    height: 100%;
+    width: 100%;
+background-size: cover;
+
+}

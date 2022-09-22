@@ -1,0 +1,13 @@
+body{
+background-position:center;
+height:100vh ; 
+width:100%
+    
+}
+h2 {  /*tag serve praformatar o h2*/ 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(10, 183, 21);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(5, 0, 12);
+     padding: 20px; 
+}
